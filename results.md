@@ -8,7 +8,7 @@
   - https://note.mu/mozy
   - http://mozy-ok.hatenablog.com/
 - [X] issueを5個以上倒す
-- [ ] 書籍等を一章以上進める
+- [ ] 書籍等を一章以上進める  
   - 書籍はLinuxの仕組みを読んだ
 ## マンスリータスク
 - [X] 新規ツールに2個以上触れる
